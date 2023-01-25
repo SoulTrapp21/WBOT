@@ -1,7 +1,7 @@
 {
     "appconfig": {
         "headless": false,
-        "isGroupReply":false,
+        "isGroupReply":true,
         "webhook":"",
         "downloadMedia": true,
         "replyUnreadMsg": false,
